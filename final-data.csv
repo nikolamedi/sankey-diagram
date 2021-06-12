@@ -1,0 +1,214 @@
+﻿Category,Indicator,ASI,Count
+Access regulation,General access regulations,"Avoid, Shift",1
+Access regulation,Car access restrictions zones,Avoid,2
+Access regulation,Car access restrictions zones,"Avoid, Shift",1
+Access regulation,Low emission zones,Avoid,1
+Access regulation,Low emission zones,"Avoid, Shift",3
+Comprehensive transport planning,General transport planning,Avoid,5
+Comprehensive transport planning,General transport planning,"Avoid, Shift",7
+Comprehensive transport planning,General transport planning,"Avoid, Shift, Improve",6
+Comprehensive transport planning,General transport planning,Improve,1
+Comprehensive transport planning,General transport planning,Shift,1
+Comprehensive transport planning,General transport planning,"Shift, Improve",4
+Comprehensive transport planning,National mobility plans,"Avoid, Shift, Improve",10
+Comprehensive transport planning,National mobility plans,Shift,1
+Comprehensive transport planning,Sustainable urban mobility plans,"Avoid, Shift",3
+Comprehensive transport planning,Sustainable urban mobility plans,"Avoid, Shift, Improve",2
+Economic instruments,General economic instruments,"Avoid, Shift",2
+Economic instruments,General economic instruments,Improve,1
+Economic instruments,General economic instruments,Shift,1
+Economic instruments,General economic instruments,"Shift, Improve",1
+Economic instruments,Emissions trading and carbon pricing,Avoid,2
+Economic instruments,Emissions trading and carbon pricing,"Avoid, Shift",1
+Economic instruments,Emissions trading and carbon pricing,"Avoid, Shift, Improve",1
+Economic instruments,Feebate,"Avoid, Shift",1
+Economic instruments,Financial instruments to support decarbonisation,Avoid,1
+Economic instruments,Financial instruments to support decarbonisation,"Avoid, Shift",5
+Economic instruments,Financial instruments to support decarbonisation,"Avoid, Shift, Improve",3
+Economic instruments,Financial instruments to support decarbonisation,Improve,5
+Economic instruments,Financial instruments to support decarbonisation,Shift,1
+Economic instruments,Financial instruments to support decarbonisation,"Shift, Improve",2
+Economic instruments,Green public procurement,"Avoid, Shift",1
+Economic instruments,Green public procurement,Improve,3
+Economic instruments,Green public procurement,Shift,1
+Economic instruments,Green public procurement,"Shift, Improve",1
+Land use,Development density or intensiveness,Avoid,7
+Land use,Development density or intensiveness,"Avoid, Shift",1
+Land use,Development density or intensiveness,"Avoid, Shift, Improve",1
+Land use,General land use,Avoid,6
+Land use,General land use,"Avoid, Shift",4
+Land use,General land use,"Avoid, Shift, Improve",1
+Land use,Mixed uses,Avoid,4
+Subsidies,Fossil fuel subsidy removal,Avoid,6
+Subsidies,Innovations avoiding freight (e.g. 3Dprinting),"Avoid, Shift",1
+Subsidies,Innovations avoiding freight (e.g. 3Dprinting),Improve,1
+Subsidies,Innovations avoiding freight (e.g. 3Dprinting),"Shift, Improve",1
+Subsidies,General logistic avoid measures,Avoid,3
+Subsidies,General logistic avoid measures,"Avoid, Shift, Improve",2
+Subsidies,General logistic avoid measures,Improve,1
+Subsidies,General logistic avoid measures,"Shift, Improve",1
+Subsidies,Voluntary programs to reduce emissions in logistics,Avoid,1
+Subsidies,General transport subsidies,Avoid,1
+Subsidies,General transport subsidies,"Avoid, Shift",1
+Taxes,Company car taxation and treatment of business travel,"Avoid, Shift",1
+Taxes,Company car taxation and treatment of business travel,Improve,2
+Taxes,Fuel tax,Avoid,7
+Taxes,Fuel tax,"Avoid, Shift",1
+Taxes,Fuel tax,Improve,2
+Taxes,Import fees,Avoid,2
+Taxes,Import fees,"Shift, Improve",1
+Taxes,Parking pricing,"Avoid, Shift",1
+Taxes,Road charging and tolls,Avoid,4
+Taxes,General transport taxes,Avoid,5
+Taxes,General transport taxes,"Avoid, Shift",2
+Taxes,General transport taxes,"Avoid, Shift, Improve",1
+Taxes,General transport taxes,Improve,3
+Taxes,General transport taxes,"Shift, Improve",1
+Taxes,Vehicle taxes,Avoid,7
+Taxes,Vehicle taxes,"Avoid, Improve",2
+Taxes,Vehicle taxes,Improve,4
+Transport demand management,Commuter trip reduction policies,"Avoid, Shift",4
+Transport demand management,Commuter trip reduction policies,Shift,1
+Transport demand management,General transport demand management,Avoid,7
+Transport demand management,General transport demand management,"Avoid, Shift",8
+Transport demand management,General transport demand management,"Avoid, Shift, Improve",2
+Transport demand management,General transport demand management,Improve,1
+Transport demand management,General transport demand management,Shift,2
+Transport demand management,General transport demand management,"Shift, Improve",1
+Transport demand management,Teleworking,Avoid,5
+Transport demand management,Teleworking,"Avoid, Shift",2
+Transport demand management,"Alternative work schedules (flextime, staggered shifts, compressed work week)",Avoid,2
+Alternative fuels,General alternative fuels,Improve,27
+Alternative fuels,General alternative fuels,"Shift, Improve",1
+Alternative fuels,Biofuels,Improve,51
+Alternative fuels,Hydrogen,Improve,27
+Alternative fuels,LPG/CNG/LNG,Improve,18
+Alternative fuels,Use of renewable energy,Improve,30
+Alternative fuels,Use of renewable energy,"Shift, Improve",1
+Aviation improvements,Aircraft fleet renovation,Improve,1
+Aviation improvements,Air traffic management,Improve,2
+Aviation improvements,General aviation improvements,Improve,8
+Aviation improvements,General aviation improvements,"Shift, Improve",1
+Aviation improvements,Environmental capacity constraints on airports,Improve,2
+Aviation improvements,CO2 certification,Improve,1
+Aviation improvements,Jet fuel policies,Improve,9
+Education and behavioral change,Campaigns,"Avoid, Shift",1
+Education and behavioral change,Campaigns,Improve,1
+Education and behavioral change,Campaigns,Shift,2
+Education and behavioral change,Campaigns,"Shift, Improve",1
+Education and behavioral change,Sustainable transport capacity building,"Avoid, Shift, Improve",1
+Education and behavioral change,Sustainable transport capacity building,Improve,5
+Education and behavioral change,Ecodriving,Improve,8
+Education and behavioral change,General education and behavior change,"Avoid, Shift",4
+Education and behavioral change,General education and behavior change,Improve,8
+Education and behavioral change,General education and behavior change,Shift,1
+Education and behavioral change,General education and behavior change,"Shift, Improve",3
+Electric mobility,General e-mobility,"Avoid, Shift",1
+Electric mobility,General e-mobility,Improve,96
+Electric mobility,General e-mobility,Improve,1
+Electric mobility,General e-mobility,Shift,1
+Electric mobility,General e-mobility,"Shift, Improve",13
+Electric mobility,EV charging infrastructure,Improve,18
+Electric mobility,EV purchase,Improve,17
+Electric mobility,EV purchase,Shift,1
+Electric mobility,EV purchase,"Shift, Improve",2
+Electric mobility,ICE (gasoline and diesel) bans,Improve,4
+Electric mobility,ICE (gasoline and diesel) bans,"Shift, Improve",2
+Electric mobility,Smart charging policies,Improve,1
+Freight efficiency improvements,General freight efficiency improvements,Improve,18
+Freight efficiency improvements,Improving load,Improve,5
+Freight efficiency improvements,Improving load,Shift,1
+Fuel policies,Fuel blending mandates,Improve,3
+Fuel policies,General fuel improvement policies,Improve,7
+Fuel policies,Fuel quality improvement,Improve,9
+Labels,Vehicle labelling,Improve,1
+Other innovations,Autonomous vehicles,Improve,9
+Other innovations,Data & Modelling Improvements,"Avoid, Shift, Improve",1
+Other innovations,Data & Modelling Improvements,Improve,7
+Other innovations,Intelligent transport systems (ITS),Avoid,1
+Other innovations,Intelligent transport systems (ITS),Improve,10
+Other innovations,Intelligent transport systems (ITS),"Shift, Improve",1
+Other innovations,General innovations and digitalisation,"Avoid, Shift",1
+Other innovations,General innovations and digitalisation,"Avoid, Shift, Improve",3
+Other innovations,General innovations and digitalisation,Improve,9
+Other innovations,General innovations and digitalisation,Shift,1
+Other innovations,General innovations and digitalisation,"Shift, Improve",1
+Promotion of technical improvements,General technical improvements,Improve,7
+Shipping improvements,Support on-shore power and electric charging facilities in ports,Improve,1
+Shipping improvements,Port infrastructure improvements,Improve,5
+Shipping improvements,Port infrastructure improvements,Shift,2
+Shipping improvements,Ship efficiency improvements,"Avoid, Improve",1
+Shipping improvements,Ship efficiency improvements,Improve,12
+Shipping improvements,General shipping improvement,Improve,21
+Vehicle improvements,Vehicle air pollution emission standards,Improve,23
+Vehicle improvements,Inspection and maintenance,Improve,20
+Vehicle improvements,Inspection and maintenance,"Shift, Improve",1
+Vehicle improvements,Low emission vehicle purchase incentives,Improve,8
+Vehicle improvements,Vehicle efficiency standards,Improve,30
+Vehicle improvements,General vehicle improvements,Improve,67
+Vehicle improvements,"Vehicle restrictions (import, age, access, sale, taxation)",Improve,18
+Vehicle improvements,Vehicle scrappage scheme,Improve,13
+Vehicle improvements,Vehicle scrappage scheme,"Shift, Improve",1
+Active mobility,General active mobility,"Avoid, Shift",9
+Active mobility,General active mobility,"Avoid, Shift, Improve",1
+Active mobility,General active mobility,Shift,13
+Active mobility,General active mobility,"Shift, Improve",1
+Active mobility,Cycling measures,"Avoid, Shift",5
+Active mobility,Cycling measures,Shift,16
+Active mobility,Cycling measures,"Shift, Improve",1
+Active mobility,Enhanced cycle provision,Shift,3
+Active mobility,Enhanced cycle provision,"Shift, Improve",1
+Active mobility,Pedways (Indoor urban walking networks that connect buildings and transportation terminals),Avoid,1
+Active mobility,Pedways (Indoor urban walking networks that connect buildings and transportation terminals),Shift,1
+Active mobility,Pedways (Indoor urban walking networks that connect buildings and transportation terminals),"Shift, Improve",1
+Active mobility,Walking measures,Avoid,1
+Active mobility,Walking measures,"Avoid, Shift",1
+Active mobility,Walking measures,Shift,8
+Improve infrastructure,Expansion of infrastructure,"Avoid, Shift",1
+Improve infrastructure,Expansion of infrastructure,Improve,3
+Improve infrastructure,Expansion of infrastructure,Shift,15
+Improve infrastructure,Expansion of infrastructure,"Shift, Improve",3
+Improve infrastructure,General infrastructure improvements,Avoid,1
+Improve infrastructure,General infrastructure improvements,"Avoid, Shift",2
+Improve infrastructure,General infrastructure improvements,"Avoid, Shift, Improve",9
+Improve infrastructure,General infrastructure improvements,Improve,16
+Improve infrastructure,General infrastructure improvements,Shift,28
+Improve infrastructure,General infrastructure improvements,"Shift, Improve",16
+Intermodality,General intermodality measures,"Avoid, Shift",1
+Intermodality,General intermodality measures,Improve,4
+Intermodality,General intermodality measures,Shift,8
+Intermodality,General intermodality measures,"Shift, Improve",3
+Intermodality,Multimodal freight interface,Shift,4
+Intermodality,Multimodal freight interface,"Shift, Improve",1
+Micromobility,General micromobility,Improve,1
+Mobility as a Service (MaaS),General MaaS,"Avoid, Shift, Improve",1
+Mobility as a Service (MaaS),General MaaS,Improve,1
+Mobility as a Service (MaaS),General MaaS,"Shift, Improve",1
+Parking management,General parking measures,"Avoid, Shift",3
+Parking management,General parking measures,Improve,1
+Parking management,General parking measures,Shift,2
+Parking management,Park & ride facilities,Avoid,1
+Parking management,Park & ride facilities,Improve,1
+Parking management,Park & ride facilities,Shift,4
+Public transport improvement,BRT,Shift,19
+Public transport improvement,Public transit integration and expansion,"Avoid, Shift",2
+Public transport improvement,Public transit integration and expansion,Shift,31
+Public transport improvement,Public transit integration and expansion,"Shift, Improve",3
+Public transport improvement,Public transit integration and expansion,Shift,6
+Public transport improvement,General public transport improvement,Avoid,1
+Public transport improvement,General public transport improvement,"Avoid, Shift",5
+Public transport improvement,General public transport improvement,"Avoid, Shift, Improve",1
+Public transport improvement,General public transport improvement,Improve,4
+Public transport improvement,General public transport improvement,Shift,50
+Public transport improvement,General public transport improvement,"Shift, Improve",11
+Public transport improvement,Integrated ticketing,Shift,1
+Public transport improvement,Integrated ticketing,"Shift, Improve",1
+Shared mobility,On-demand public transport,"Avoid, Shift",1
+Shared mobility,On-demand public transport,Shift,1
+Shared mobility,General shared mobility,"Avoid, Shift",2
+Shared mobility,General shared mobility,"Avoid, Shift, Improve",1
+Shared mobility,General shared mobility,Improve,1
+Shared mobility,General shared mobility,Shift,10
+Shared mobility,General shared mobility,"Shift, Improve",4
+Subsidies,Freight transport shifting to rail or inland waterways,Shift,26
+Subsidies,Freight transport shifting to rail or inland waterways,"Shift, Improve",7
